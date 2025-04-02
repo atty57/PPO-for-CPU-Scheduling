@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Kyle O'Donnell, and myself and a team of classmates, [Ethan Chang](https://github.com/ethanchang34) and [Atharva Vichare](https://github.com/AtharvaUdel), set out to create a CPU scheduling algorithm using a Deep Reinforcement learning technique, Proximal Policy Optimization ([PPO](https://arxiv.org/abs/1707.06347)).  This project served as a final project for our graduate Operating Systems class at the University of Delaware, CISC 663.
+Hello, my name is Atharva Vichare, myself and a team of classmates, [Ethan Chang](https://github.com/ethanchang34) and [Kyle O'Donell](https://github.com/Kyle-OD), set out to create a CPU scheduling algorithm using a Deep Reinforcement learning technique, Proximal Policy Optimization ([PPO](https://arxiv.org/abs/1707.06347)).  This project served as a final project for our graduate Operating Systems class at the University of Delaware, CISC 663.
 
 To replicate results, the following steps are detailed below:
 1) Environment setup
